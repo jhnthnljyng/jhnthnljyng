@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=jhnthnljyng&show_icons=true&theme=onedark" />
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhnthnljyng&layout=compact" />
 <!--
 **jhnthnljyng/jhnthnljyng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
